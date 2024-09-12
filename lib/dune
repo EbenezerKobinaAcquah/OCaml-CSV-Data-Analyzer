@@ -1,0 +1,2 @@
+(library
+ (name ocaml_data_decision_app))

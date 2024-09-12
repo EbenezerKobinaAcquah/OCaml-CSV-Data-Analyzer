@@ -1,0 +1,4 @@
+(lang dune 3.16)
+(name ocaml_data_decision_app)
+(sections (lib .) (bin ../../bin))
+(files (lib (META dune-package opam)) (bin (ocaml_data_decision_app.exe)))

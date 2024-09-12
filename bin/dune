@@ -1,0 +1,4 @@
+(executable
+ (public_name ocaml_data_decision_app)
+ (name main)
+ (libraries ocaml_data_decision_app))
